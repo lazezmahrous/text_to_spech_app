@@ -1,0 +1,11 @@
+{
+    "onBoardingDescription":"A **Text-to-Speech (TTS) application** allows users to input text and convert it into spoken words using voice synthesis. The app provides options to select different languages and voices. It can be used for various purposes, such as improving accessibility for visually impaired users, assisting with language learning, or converting written content into audio format. With a simple interface, users can type or paste text, choose their desired language, and generate an audio file, which can be played immediately or saved for later use.",
+    "onBoardingButtonTitle":"Get Started",
+    "homeHederTitle":"Welcome To TTS ✨",
+    "homeTextFieldHitntText":"Enter Text",
+    "homeTextFieldValidatorOnlyLetters":"Please Enter Only Letters",
+    "homeTextFieldValidatorTextIsEmpty":"Please Enter Text",
+    "homeSelectLanguageHintText":"Select Language",
+    "homeButtonTitle":"Convert"
+
+}
